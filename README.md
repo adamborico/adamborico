@@ -2,7 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a UI Developer
+I'm Adam a UI Developer.
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -17,6 +17,10 @@ I am a UI Developer
 </p>
 
 ---
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://linkedin.com/in/adamalvarez" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="adamalvarez" height="40" width="40" /></a>
 
 <!--
 **adamborico/adamborico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
