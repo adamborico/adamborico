@@ -1,8 +1,11 @@
-### Hello There 👋
+### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 ### :man_technologist: &nbsp;About Me :
 
-I'm Adam a UI Developer.
+I'm Adam a UI Developer with 9+ years of experience in desing and developing Using Interface.
+
+- 🌱 I’m currently learning JavaScript
+- ⚡ Fun fact: I :heart: trail running :mountain:
 
 ### 🛠 &nbsp;Languages and Tools :
 
